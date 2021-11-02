@@ -1,4 +1,4 @@
-- 👋 Hi, I’m leaf
+- 👋 Hi, I’m nibok
 - 👀 I’m interested in js,css
 - 🌱 I’m currently learning ts
 - 📫 reach me by webtime0226@163.com
